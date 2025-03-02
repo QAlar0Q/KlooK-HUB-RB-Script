@@ -1,14 +1,4 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
-local Window = Library.CreateLib("Key✅", "RJTheme6")
-local Tab = Window:NewTab("Key system🟢")
-local Section = Tab:NewSection("➕")
-
-Section:NewTextBox("Enter key", "TextboxInfo", function(txt)
-	Key = txt
-end)
-
-if Key == "11qq22" then
-
 local Window = Library.CreateLib("KlooK HUB✅", "RJTheme6")
 local Tab = Window:NewTab("Legit🟢")
 local Section = Tab:NewSection("Character➕")
@@ -395,6 +385,6 @@ end)
 notif("Loaded successfully! Created by scuba#0001", 5)
 
 end)
-end
+
 
 
