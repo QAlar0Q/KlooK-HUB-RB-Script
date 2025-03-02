@@ -2,7 +2,13 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Roboj
 local Window = Library.CreateLib("key✅", "RJTheme6")
 local Tab = Window:NewTab("key🟢")
 local Section = Tab:NewSection("➕")
-wait(10)
+
+Section:NewTextBox("TextboxText", "TextboxInfo", function(txt)
+	key = txt
+end)
+
+if key == "aboba" then
+
 local Window = Library.CreateLib("KlooK HUB✅", "RJTheme6")
 local Tab = Window:NewTab("Legit🟢")
 local Section = Tab:NewSection("Character➕")
