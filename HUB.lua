@@ -7,7 +7,7 @@ Section:NewTextBox("TextboxText", "TextboxInfo", function(txt)
 	key = txt
 end)
 
-if key == "aboba" then
+if txt == "aboba" then
 
 local Window = Library.CreateLib("KlooK HUB✅", "RJTheme6")
 local Tab = Window:NewTab("Legit🟢")
