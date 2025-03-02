@@ -2,41 +2,9 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Roboj
 local Window = Library.CreateLib("⚠⚠⚠", "RJTheme6")
 local Tab = Window:NewTab("YouTube❤")
 local Section = Tab:NewSection("@raKKerRBSCR🧐")
-Section:NewButton("👀", "k👀", function()
-		
+Section:NewButton("👀", "k👀", function()		
 end)
-
-local Tab = Window:NewTab("YouTube❤")
-local Section = Tab:NewSection("@raKKerRBSCR🧐")
-Section:NewButton("👀", "k👀", function()
-		
-end)
-local Tab = Window:NewTab("YouTube❤")
-local Section = Tab:NewSection("@raKKerRBSCR🧐")
-Section:NewButton("👀", "k👀", function()
-		
-end)
-local Tab = Window:NewTab("YouTube❤")
-local Section = Tab:NewSection("@raKKerRBSCR🧐")
-Section:NewButton("👀", "k👀", function()
-		
-end)
-local Tab = Window:NewTab("YouTube❤")
-local Section = Tab:NewSection("@raKKerRBSCR🧐")
-Section:NewButton("👀", "k👀", function()
-		
-end)
-local Tab = Window:NewTab("YouTube❤")
-local Section = Tab:NewSection("@raKKerRBSCR🧐")
-Section:NewButton("👀", "k👀", function()
-		
-end)
-local Tab = Window:NewTab("YouTube❤")
-local Section = Tab:NewSection("@raKKerRBSCR🧐")
-Section:NewButton("👀", "k👀", function()
-		
-end)
-
+wait(3)
 local Window = Library.CreateLib("KlooK HUB✅", "RJTheme6")
 local Tab = Window:NewTab("Legit🟢")
 local Section = Tab:NewSection("Character➕")
