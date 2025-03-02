@@ -1,4 +1,9 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
+wait(10)
+local Window = Library.CreateLib("key✅", "RJTheme6")
+local Tab = Window:NewTab("key🟢")
+local Section = Tab:NewSection("➕")
+
 local Window = Library.CreateLib("KlooK HUB✅", "RJTheme6")
 local Tab = Window:NewTab("Legit🟢")
 local Section = Tab:NewSection("Character➕")
