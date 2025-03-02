@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
 local Window = Library.CreateLib("KlooK HUB✅", "RJTheme6")
-local Tab = Window:NewTab("Legit🟢")
+local Tab = Window:NewTab("Legit🟢") 
 local Section = Tab:NewSection("Character➕")
 
 Section:NewSlider("Speed🟡", "Avatar walkspeeed🟡", 245, 1, function(s) -- 500 (Макс. значение) | 0 (Мин. значение)
