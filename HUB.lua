@@ -1,13 +1,41 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
-local Window = Library.CreateLib("key✅", "RJTheme6")
-local Tab = Window:NewTab("key🟢")
-local Section = Tab:NewSection("➕")
-
-Section:NewTextBox("TextboxText", "TextboxInfo", function(txt)
-	key = txt
+local Window = Library.CreateLib("⚠⚠⚠", "RJTheme6")
+local Tab = Window:NewTab("YouTube❤")
+local Section = Tab:NewSection("@raKKerRBSCR🧐")
+Section:NewButton("👀", "k👀", function()
+		
 end)
 
-if txt == "aboba" then
+local Tab = Window:NewTab("YouTube❤")
+local Section = Tab:NewSection("@raKKerRBSCR🧐")
+Section:NewButton("👀", "k👀", function()
+		
+end)
+local Tab = Window:NewTab("YouTube❤")
+local Section = Tab:NewSection("@raKKerRBSCR🧐")
+Section:NewButton("👀", "k👀", function()
+		
+end)
+local Tab = Window:NewTab("YouTube❤")
+local Section = Tab:NewSection("@raKKerRBSCR🧐")
+Section:NewButton("👀", "k👀", function()
+		
+end)
+local Tab = Window:NewTab("YouTube❤")
+local Section = Tab:NewSection("@raKKerRBSCR🧐")
+Section:NewButton("👀", "k👀", function()
+		
+end)
+local Tab = Window:NewTab("YouTube❤")
+local Section = Tab:NewSection("@raKKerRBSCR🧐")
+Section:NewButton("👀", "k👀", function()
+		
+end)
+local Tab = Window:NewTab("YouTube❤")
+local Section = Tab:NewSection("@raKKerRBSCR🧐")
+Section:NewButton("👀", "k👀", function()
+		
+end)
 
 local Window = Library.CreateLib("KlooK HUB✅", "RJTheme6")
 local Tab = Window:NewTab("Legit🟢")
