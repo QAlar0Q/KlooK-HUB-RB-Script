@@ -724,7 +724,9 @@ Section:NewButton("AdminPanel🎛", "", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/e89Mn4Ec'))()
 end)
 
-Section:NewButton("AdminPanel🎛", "", function()
+local Section = Tab:NewSection("MarsHUB🎃")
+
+Section:NewButton("MarsHUB🎃", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/1andonlymars/MarsHub/main/MM2"))() 
 end)
 
