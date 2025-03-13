@@ -730,4 +730,9 @@ Section:NewButton("MarsHUB🎃", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/1andonlymars/MarsHub/main/MM2"))() 
 end)
 
+local Section = Tab:NewSection("Rivals🕹")
+local Section = Tab:NewSection("8BIT🎮")
 
+Section:NewButton("8BIT🎮", "", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/8bits4ya/rivals-v3/refs/heads/main/main.lua"))()
+end)
